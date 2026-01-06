@@ -1,11 +1,11 @@
 {
   "key": "v2b_soso",
-  "host_source": "https://sosom.xyz",
+  "host_source": "https://some.fchjt.com",
   "target": 1,
   "email": "",
   "tg": "",
-  "crisp": "79f13f17-cedd-4ba0-aa5e-0c5443c2dedf",
-  "loginless": 1,
+  "crisp": "ec5eb3d2-1d76-4f50-a27f-0556c6c488e9",
+  "loginless": 0,
   "loginless_link": "",
   "code_login": 1,
   "code_register": 1,
@@ -20,9 +20,8 @@
     "Alipay": "9",
     "Wechat": "9"
   },
-  "animator": "[{\"t\":2,\"w\":1,\"h\":1,\"x\":\"0\",\"y\":\"0\",\"r\":1,\"ot\":1,\"u\":\"https://lottie-cdn.xpluto.cyou/anim_snow.json\",\"min\":0,\"max\":-1,\"s\":0.8},{\"t\":2,\"w\":120,\"h\":120,\"x\":\"20\",\"y\":\"20\",\"r\":1,\"ot\":0,\"u\":\"https://lottie-cdn.xpluto.cyou/anim_2024.json\",\"min\":0,\"max\":-1,\"s\":0.8}]",
+  "animator": null,
   "hosts": [
-    "https://sosom.xyz",
-    "https://sosoo.xyz"
+    "https://some.fchjt.com"
   ]
 }
